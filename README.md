@@ -12,8 +12,7 @@ import static ztysdmy.functional.tailcall.TailCallUtility.*;
 
 int result = recursion(0).invoke();
 
-private TailCall<Integer> recursion(int i) {
-		
+private TailCall<Integer> recursion(int i) {		
  if (i==10000) {
   return done(i);
  }
