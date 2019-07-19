@@ -1,1 +1,1 @@
-# java-functional
+## Utility classes to support function programming on Java
