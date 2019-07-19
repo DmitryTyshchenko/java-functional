@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ztysdmy.functional.tailcall.TailCallTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-19T13:01:38" hostname="KBP1-LHP-F55543" time="0.026">
+  <properties/>
+  <testcase name="testRecursion" classname="ztysdmy.functional.tailcall.TailCallTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
