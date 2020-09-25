@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ztysdmy.functional.tailcall.TailCallTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-25T09:07:16" hostname="KBP1-LHP-F91635" time="0.005">
+<testsuite name="ztysdmy.functional.tailcall.TailCallTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-25T11:32:37" hostname="KBP1-LHP-F91635" time="0.005">
   <properties/>
   <testcase name="testRecursion" classname="ztysdmy.functional.tailcall.TailCallTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
