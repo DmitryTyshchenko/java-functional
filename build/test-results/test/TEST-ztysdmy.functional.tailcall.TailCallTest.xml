@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ztysdmy.functional.tailcall.TailCallTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-25T11:32:37" hostname="KBP1-LHP-F91635" time="0.005">
+<testsuite name="ztysdmy.functional.tailcall.TailCallTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-28T07:08:24" hostname="KBP1-LHP-F91635" time="0.006">
   <properties/>
-  <testcase name="testRecursion" classname="ztysdmy.functional.tailcall.TailCallTest" time="0.005"/>
+  <testcase name="testRecursion" classname="ztysdmy.functional.tailcall.TailCallTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
